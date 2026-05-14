@@ -120,8 +120,8 @@ PacketX/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/SoumilChaurasia09/PacketX.git
-cd PacketX
+git clone https://github.com/SoumilChaurasia09/PacketX-Network-Analyzer.git
+cd PacketX-Network-Analyzer
 ```
 
 ---
