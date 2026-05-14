@@ -120,7 +120,7 @@ PacketX/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/PacketX.git
+git clone https://github.com/SoumilChaurasia09/PacketX.git
 cd PacketX
 ```
 
